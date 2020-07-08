@@ -1,5 +1,5 @@
 # Flight Data Exploration
-## by Md Kaish Ansari
+## by Venuv123
 ## Dataset
 
 > There are 7009728 rows of flights details in the data set for the year 2008, with 29 features, including cancellations and delay data for 20 unique carriers.
